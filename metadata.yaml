@@ -1,0 +1,37 @@
+_repo: Stargazing-Past-and-Present_53172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lockyer, Norman, Sir
+    aliases:
+    - Lockyer, J. Norman (Joseph Norman), Sir
+    - Lockyer, J. N. (Joseph Norman), Sir
+    - Lockyer, Joseph Norman, Sir
+    birthdate: 1836
+    deathdate: 1920
+    gutenberg_agent_id: '47246'
+    url: http://www.gutenberg.org/2009/agents/47246
+  editor:
+    agent_name: Seabroke, G. M. (George Mitchell)
+    alias: Seabroke, George Mitchell
+    birthdate: 1848
+    deathdate: 1918
+    gutenberg_agent_id: '49372'
+    url: http://www.gutenberg.org/2009/agents/49372
+description: ''
+gutenberg_issued: '2016-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53172'
+  lccn: '04004434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcsh 'Telescopes'
+- !lcc 'QB'
+- GITenberg
+title: 'Stargazing: Past and Present'
+url: http://www.gutenberg.org/ebooks/53172
